@@ -5,8 +5,8 @@ description: Use when someone asks for the weekly ads report, the Monday report,
 
 # Monday ads report
 
-The weekly report I send every Monday for the ad accounts I run. It has gone out every
-week since August 2026, and every rule below is here because a report once got it wrong.
+The weekly report I send every Monday for the ad accounts I run. It has gone out on 14
+Mondays since August 2026, and every rule below is here because a report once got it wrong.
 
 The report answers four questions, in this order:
 1. How did last week do against the week before?
